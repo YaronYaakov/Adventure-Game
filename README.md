@@ -4,10 +4,6 @@ This game follows the story of a traveler whose car breaks down in the middle of
 <img width="824" height="564" alt="Image" src="https://github.com/user-attachments/assets/8036315c-6246-4970-9901-a4c4529b9e2a" />
 
 
-## Demo Videos
-Part 1
-[Watch the video](https://github.com/yaron16ll/Adventure-Game/releases/download/v1.0/Part1.mp4)  
-Part 2
-[Watch the video](https://github.com/yaron16ll/Adventure-Game/releases/download/v1.0/Part2.mp4)  
-Part 3
-[Watch the video](https://github.com/yaron16ll/Adventure-Game/releases/download/v1.0/Part3.mp4)  
+## Demo Videos 
+<video src="https://github.com/user-attachments/assets/1dc94613-e27e-4a8a-a558-035f867e391c" controls></video>
+
